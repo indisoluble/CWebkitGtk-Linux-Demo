@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CWebkitGtk-Linux",
+        "repositoryURL": "https://github.com/indisoluble/CWebkitGtk-Linux.git",
+        "state": {
+          "branch": null,
+          "revision": "322af5d3f25162abd521c4e19ac89a586aad3481",
+          "version": "1.0.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
